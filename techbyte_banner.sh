@@ -12,7 +12,7 @@ function show_banner() {
     echo -e "${GREEN}"
     figlet -f slant "Tech Byte" || toilet -f slant "Tech Byte"
     echo -e "${NC}"
-    echo -e "${CYAN}Instagram: @tech_byte${NC}"
+    echo -e "${CYAN}Instagram: @tech_abhishek${NC}"
     echo -e "${CYAN}YouTube  : @bytewithabhi${NC}"
     echo ""
 }
