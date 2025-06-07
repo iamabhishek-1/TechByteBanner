@@ -9,7 +9,7 @@ A simple terminal banner creator tool for Termux and Linux.
 - Custom username banner
 - Big stylish fonts using figlet and toilet
 - Easy install and uninstall scripts
-- Credits: Tech Byte Instagram @tech_byte | YouTube @bytewithabhi
+- Credits: Tech Byte Instagram @tech_abhishek | YouTube @bytewithabhi
 
 ---
 
@@ -49,5 +49,5 @@ exit
 
 - Inspired by remo7777/T-Header
 - Developed by Tech Byte
-- Instagram: [@tech_byte](https://instagram.com/tech_byte)
+- Instagram: [@tech_byte](https://instagram.com/tech_abhishek)
 - YouTube: [@bytewithabhi](https://youtube.com/@bytewithabhi)
