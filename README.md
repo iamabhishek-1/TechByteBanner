@@ -49,5 +49,5 @@ exit
 
 - Inspired by remo7777/T-Header
 - Developed by Tech Byte
-- Instagram: [@tech_byte](https://instagram.com/tech_abhishek)
+- Instagram: [@tech_abhishek](https://instagram.com/tech_abhishek)
 - YouTube: [@bytewithabhi](https://youtube.com/@bytewithabhi)
